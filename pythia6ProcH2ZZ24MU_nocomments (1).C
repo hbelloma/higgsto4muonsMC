@@ -6,8 +6,8 @@
 // Author: Héctor Bello Martínez <hbelloma@cern.ch>
 // Update: 2018-10-12
 //
-// Modification by: Sergio ...
-// Date:
+// Modification by: Sergio Sicairos
+// Date:  2019-05
 //
 //-------------------------------------------------------------------
 // To make an event sample (of size 1000) do
